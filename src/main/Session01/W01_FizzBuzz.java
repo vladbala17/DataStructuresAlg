@@ -1,4 +1,4 @@
-package Session01;
+package main.Session01;
 
 public class W01_FizzBuzz {
 

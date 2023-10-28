@@ -1,4 +1,4 @@
-package Session01;
+package main.Session01;
 
 public class Introduction {
     public static void main(String[] args) {
